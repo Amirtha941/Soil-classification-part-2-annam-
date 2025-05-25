@@ -1,0 +1,19 @@
+{
+  "_comment": "This JSON file contains the classification metrics for the soil classification model",
+  "Name": "Amirtha K ,Tharun babu C",
+  "Kaggle Username": "amirtha1409 ,tharunbabu20",
+  "Team Name": "AgroMinds AI",
+  "f1 scores": {
+    "_comment": "Class-wise F1 scores computed from the model's predictions",
+    "alluvial soil": 0.79,
+    "red soil": 0.81,
+    "black soil": 0.76,
+    "clay soil": 0.83
+  },
+  "overall accuracy": 0.80,
+  "model": "CNN",
+  "input image size": "128x128",
+  "framework": "TensorFlow/Keras",
+  "dataset": "Kaggle soil dataset (custom/preprocessed)"
+}
+
